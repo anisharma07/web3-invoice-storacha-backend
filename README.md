@@ -1,4 +1,4 @@
-# Web3-Medical-Invoice
+# web3-invoice-storacha-backend
 Medical Billing System with Metamask integration, activation using  ConnectKit and Web3 tooling
 
 ## Prerequisites
@@ -14,10 +14,10 @@ yarn -v
 
 ### Cloning the Repository
 
-Clone your fork of the Web3-Medical-Invoice repository:
+Clone your fork of the web3-invoice-storacha-backend repository:
 
 ```bash
-git clone https://github.com/[USER_NAME]/Web3-Medical-Invoice
+git clone https://github.com/[USER_NAME]/web3-invoice-storacha-backend
 ```
 
 ### Opening the Project
@@ -25,7 +25,7 @@ git clone https://github.com/[USER_NAME]/Web3-Medical-Invoice
 Open the project in your preferred code editor. If you use Visual Studio Code, you can do this with:
 
 ```bash
-code Web3-Medical-Invoice
+code web3-invoice-storacha-backend
 ```
 
 ### Setting Up Environment Variables
